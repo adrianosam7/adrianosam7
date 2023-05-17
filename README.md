@@ -1,6 +1,6 @@
-<blue>
-## Adriano Santana Martins
-</blue>
+
+### Adriano Santana Martins
+
 linkedin.com/in/adriano-santana-martins-9396a0136
 
 <!--
