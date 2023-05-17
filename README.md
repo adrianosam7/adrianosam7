@@ -1,7 +1,7 @@
 
 ### Adriano Santana Martins 
+______________________________________________
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<blue>
 linkedin.com/in/adriano-santana-martins-9396a0136
 
 <!--
